@@ -1,7 +1,24 @@
 
 const display = document.getElementById('displayArea');
+const searchBtn = document.getElementById('searchBtn');
+let outChar = [];
 
+//This function will be used to fetch data from api
+function fetchCharacter() {
+    return fetch(`https://dragonball-api.com/api/characters?limit=65`)
+        .then(response => response.json())
+        .then(data => {
+            console.log(data)
+            outChar = data.items || [];
+            displayChar(outChar);
+        })
+        .catch(error => {
+            console.error(error);
+            display.innerHTML = `<p class='text-danger text-center'>Failed to load character data</p>`;
+        })
+}
 
+// This function will display the fetched data on the browser screen
 function displayChar(chars) {
     if (!Array.isArray(chars) || chars.length === 0) {
         display.innerHTML = `<p class='text-danger text-center'>No characters found</p>`;
@@ -33,20 +50,27 @@ function displayChar(chars) {
             </div>
     `;
         display.appendChild(cardArea);
+
     });
 }
 
-function fetchCharacter() {
-    return fetch(`https://dragonball-api.com/api/characters?limit=65`)
-        .then(response => response.json())
-        .then(data => {
-            console.log(data)
-            displayChar(data.items || []);
-        })
-        .catch(error => {
-            console.error(error);
-            display.innerHTML = `<p class='text-danger text-center'>Failed to load character data</p>`;
-        })
-}
+//the function will fiter the fetched data on lthe basis of inputs by user
+function filterSearch() {
 
+    const searchInput = document.getElementById('searchInput').value.toLowerCase();
+    const filteredCars = outChar.filter((character) => {
+        return character.name.toLowerCase().includes(searchInput) || String(character.id) === searchInput || character.race.toLowerCase().includes(searchInput);  //convert the character id to string for comparison
+    });
+    displayChar(filteredCars);
+    if (filteredCars.length === 0) {
+        display.innerHTML = `<p class='text-danger text-center'>No characters found</p>`;
+    }
+}
 fetchCharacter();
+searchBtn.addEventListener('click' || 'enter', filterSearch);
+searchInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+        filterSearch();
+    }
+})
+
