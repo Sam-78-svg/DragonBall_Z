@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dragon Ball Characters</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-dark text-white">
+
+    <div class="container py-4">
+        <h1 class="text-center mb-4">Dragon Ball Characters</h1>
+        <div id="displayArea" class="row g-3"></div>
+    </div>
+
+    <script>
+        const display = document.getElementById('displayArea');
+
+        function displayChar(chars) {
+            if (!Array.isArray(chars) || chars.length === 0) {
+                display.innerHTML = `<p class='text-danger text-center'>No characters found.</p>`;
+                return;
+            }
+
+            display.innerHTML = ''; // clear before rendering
+
+            chars.forEach(({ name, ki, maxKi, race, id, gender, image, affiliation }) => {
+                const cardArea = document.createElement('div');
+                cardArea.className = "col-12 col-sm-6 col-md-4 col-lg-3";
+                cardArea.innerHTML = `
+                <div class="card h-100 shadow-lg rounded-4 bg-light text-dark">
+                    <img src="${image}" style="height:200px;object-fit:contain;" alt="${name}" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title">${name}</h5>
+                        <p class="card-text"><strong>ID:</strong> ${id}</p>
+                        <p class="card-text"><strong>Gender:</strong> ${gender}</p>
+                        <p class="card-text"><strong>Race:</strong> ${race}</p>
+                        <p class="card-text"><strong>Ki:</strong> ${ki}</p>
+                        <p class="card-text"><strong>Max Ki:</strong> ${maxKi}</p>
+                        <p class="card-text"><strong>Affiliation:</strong> ${affiliation}</p>
+                    </div>
+                </div>
+            `;
+                display.appendChild(cardArea);
+            });
+        }
+
+        function fetchCharacter() {
+            fetch('https://dragonball-api.com/api/characters')
+                .then(response => {
+                    if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+                    return response.json();
+                })
+                .then(data => {
+                    console.log('API Data:', data);
+                    displayChar(data.items || []);
+                })
+                .catch(error => {
+                    console.error(error);
+                    display.innerHTML = `<p class='text-danger text-center'>Failed to load character data.</p>`;
+                });
+        }
+
+        fetchCharacter();
+    </script>
+
+</body>
+
+</html>
