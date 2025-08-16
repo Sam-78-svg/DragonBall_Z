@@ -1,602 +1,717 @@
 [
     {
-        "name": "Tiger",
-        "image": "https://example.com/images/tiger.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
+        "id": 1,
         "name": "Lion",
-        "image": "https://example.com/images/lion.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "scientific_name": "Panthera leo",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "Africa, India",
+        "habitat": "Grasslands, savannas, shrublands",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/lion.jpg"
     },
     {
-        "name": "Elephant",
-        "image": "https://example.com/images/elephant.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 2,
+        "name": "Bengal Tiger",
+        "scientific_name": "Panthera tigris tigris",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "India, Bangladesh, Nepal, Bhutan",
+        "habitat": "Mangrove forests, grasslands, tropical rainforests",
+        "conservation_status": "Endangered",
+        "image_url": "https://example.com/images/bengal_tiger.jpg"
     },
     {
-        "name": "Leopard",
-        "image": "https://example.com/images/leopard.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 3,
+        "name": "African Elephant",
+        "scientific_name": "Loxodonta africana",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Africa",
+        "habitat": "Savannas, forests, and grasslands",
+        "conservation_status": "Endangered",
+        "image_url": "https://example.com/images/african_elephant.jpg"
     },
     {
-        "name": "Panther",
-        "image": "https://example.com/images/panther.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
+        "id": 4,
         "name": "Cheetah",
-        "image": "https://example.com/images/cheetah.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "scientific_name": "Acinonyx jubatus",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "Africa, Iran",
+        "habitat": "Grasslands, savannas, light forests",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/cheetah.jpg"
     },
     {
-        "name": "Wolf",
-        "image": "https://example.com/images/wolf.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 5,
+        "name": "Grey Wolf",
+        "scientific_name": "Canis lupus",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "North America, Eurasia, North Africa",
+        "habitat": "Forests, deserts, tundras, mountains",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/grey_wolf.jpg"
     },
     {
-        "name": "Jaguar",
-        "image": "https://example.com/images/jaguar.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Hyena",
-        "image": "https://example.com/images/hyena.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Giraffe",
-        "image": "https://example.com/images/giraffe.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Deer",
-        "image": "https://example.com/images/deer.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Zebra",
-        "image": "https://example.com/images/zebra.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Gorilla",
-        "image": "https://example.com/images/gorilla.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Monkey",
-        "image": "https://example.com/images/monkey.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Chimpanzee",
-        "image": "https://example.com/images/chimpanzee.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Bear",
-        "image": "https://example.com/images/bear.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Wild Boar",
-        "image": "https://example.com/images/wild_boar.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
+        "id": 6,
         "name": "Hippopotamus",
-        "image": "https://example.com/images/hippopotamus.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "scientific_name": "Hippopotamus amphibius",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Sub-Saharan Africa",
+        "habitat": "Rivers, lakes, and mangrove swamps",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/hippopotamus.jpg"
     },
     {
-        "name": "Kangaroo",
-        "image": "https://example.com/images/kangaroo.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 7,
+        "name": "Zebra",
+        "scientific_name": "Equus quagga",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Africa",
+        "habitat": "Grasslands, savannas",
+        "conservation_status": "Near Threatened",
+        "image_url": "https://example.com/images/zebra.jpg"
     },
     {
-        "name": "Rhinoceros",
-        "image": "https://example.com/images/rhinoceros.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 8,
+        "name": "Grizzly Bear",
+        "scientific_name": "Ursus arctos horribilis",
+        "class": "Mammalia",
+        "diet": "Omnivore",
+        "location": "North America",
+        "habitat": "Forests, woodlands, alpine meadows",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/grizzly_bear.jpg"
     },
     {
-        "name": "Crocodile",
-        "image": "https://example.com/images/crocodile.jpg",
-        "location": "Various (Forests, Rivers, Deserts)",
-        "breed": "Reptile"
-    },
-    {
-        "name": "Alligator",
-        "image": "https://example.com/images/alligator.jpg",
-        "location": "Various (Forests, Rivers, Deserts)",
-        "breed": "Reptile"
-    },
-    {
-        "name": "Snake",
-        "image": "https://example.com/images/snake.jpg",
-        "location": "Various (Forests, Rivers, Deserts)",
-        "breed": "Reptile"
-    },
-    {
-        "name": "Python",
-        "image": "https://example.com/images/python.jpg",
-        "location": "Various (Forests, Rivers, Deserts)",
-        "breed": "Reptile"
-    },
-    {
-        "name": "Cobra",
-        "image": "https://example.com/images/cobra.jpg",
-        "location": "Various (Forests, Rivers, Deserts)",
-        "breed": "Reptile"
-    },
-    {
-        "name": "Vulture",
-        "image": "https://example.com/images/vulture.jpg",
-        "location": "Sky/Various",
-        "breed": "Bird"
-    },
-    {
-        "name": "Eagle",
-        "image": "https://example.com/images/eagle.jpg",
-        "location": "Sky/Various",
-        "breed": "Bird"
-    },
-    {
-        "name": "Falcon",
-        "image": "https://example.com/images/falcon.jpg",
-        "location": "Sky/Various",
-        "breed": "Bird"
-    },
-    {
-        "name": "Owl",
-        "image": "https://example.com/images/owl.jpg",
-        "location": "Sky/Various",
-        "breed": "Bird"
-    },
-    {
-        "name": "Parrot",
-        "image": "https://example.com/images/parrot.jpg",
-        "location": "Sky/Various",
-        "breed": "Bird"
-    },
-    {
-        "name": "Peacock",
-        "image": "https://example.com/images/peacock.jpg",
-        "location": "Sky/Various",
-        "breed": "Bird"
-    },
-    {
-        "name": "Penguin",
-        "image": "https://example.com/images/penguin.jpg",
-        "location": "Sky/Various",
-        "breed": "Bird"
-    },
-    {
-        "name": "Seal",
-        "image": "https://example.com/images/seal.jpg",
-        "location": "Oceans/Seas",
-        "breed": "Marine Animal"
-    },
-    {
-        "name": "Walrus",
-        "image": "https://example.com/images/walrus.jpg",
-        "location": "Oceans/Seas",
-        "breed": "Marine Animal"
-    },
-    {
-        "name": "Otter",
-        "image": "https://example.com/images/otter.jpg",
-        "location": "Oceans/Seas",
-        "breed": "Marine Animal"
-    },
-    {
-        "name": "Dolphin",
-        "image": "https://example.com/images/dolphin.jpg",
-        "location": "Oceans & Rivers",
-        "breed": "Fish"
-    },
-    {
-        "name": "Whale",
-        "image": "https://example.com/images/whale.jpg",
-        "location": "Oceans & Rivers",
-        "breed": "Fish"
-    },
-    {
-        "name": "Shark",
-        "image": "https://example.com/images/shark.jpg",
-        "location": "Oceans & Rivers",
-        "breed": "Fish"
-    },
-    {
-        "name": "Octopus",
-        "image": "https://example.com/images/octopus.jpg",
-        "location": "Oceans/Seas",
-        "breed": "Marine Animal"
-    },
-    {
-        "name": "Squid",
-        "image": "https://example.com/images/squid.jpg",
-        "location": "Oceans/Seas",
-        "breed": "Marine Animal"
-    },
-    {
-        "name": "Turtle",
-        "image": "https://example.com/images/turtle.jpg",
-        "location": "Various (Forests, Rivers, Deserts)",
-        "breed": "Reptile"
-    },
-    {
-        "name": "Tortoise",
-        "image": "https://example.com/images/tortoise.jpg",
-        "location": "Various (Forests, Rivers, Deserts)",
-        "breed": "Reptile"
-    },
-    {
-        "name": "Lizard",
-        "image": "https://example.com/images/lizard.jpg",
-        "location": "Various (Forests, Rivers, Deserts)",
-        "breed": "Reptile"
-    },
-    {
-        "name": "Komodo Dragon",
-        "image": "https://example.com/images/komodo_dragon.jpg",
-        "location": "Various (Forests, Rivers, Deserts)",
-        "breed": "Reptile"
-    },
-    {
-        "name": "Iguana",
-        "image": "https://example.com/images/iguana.jpg",
-        "location": "Various (Forests, Rivers, Deserts)",
-        "breed": "Reptile"
-    },
-    {
-        "name": "Chameleon",
-        "image": "https://example.com/images/chameleon.jpg",
-        "location": "Various (Forests, Rivers, Deserts)",
-        "breed": "Reptile"
-    },
-    {
-        "name": "Frog",
-        "image": "https://example.com/images/frog.jpg",
-        "location": "Freshwater & Forests",
-        "breed": "Amphibian"
-    },
-    {
-        "name": "Toad",
-        "image": "https://example.com/images/toad.jpg",
-        "location": "Freshwater & Forests",
-        "breed": "Amphibian"
-    },
-    {
-        "name": "Salamander",
-        "image": "https://example.com/images/salamander.jpg",
-        "location": "Freshwater & Forests",
-        "breed": "Amphibian"
-    },
-    {
-        "name": "Newt",
-        "image": "https://example.com/images/newt.jpg",
-        "location": "Freshwater & Forests",
-        "breed": "Amphibian"
-    },
-    {
-        "name": "Camel",
-        "image": "https://example.com/images/camel.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Bison",
-        "image": "https://example.com/images/bison.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Yak",
-        "image": "https://example.com/images/yak.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Buffalo",
-        "image": "https://example.com/images/buffalo.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Moose",
-        "image": "https://example.com/images/moose.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Elk",
-        "image": "https://example.com/images/elk.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Antelope",
-        "image": "https://example.com/images/antelope.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Gazelle",
-        "image": "https://example.com/images/gazelle.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Kudu",
-        "image": "https://example.com/images/kudu.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Okapi",
-        "image": "https://example.com/images/okapi.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Sloth",
-        "image": "https://example.com/images/sloth.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Armadillo",
-        "image": "https://example.com/images/armadillo.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Pangolin",
-        "image": "https://example.com/images/pangolin.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
+        "id": 9,
         "name": "Koala",
-        "image": "https://example.com/images/koala.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "scientific_name": "Phascolarctos cinereus",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Australia",
+        "habitat": "Eucalyptus forests",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/koala.jpg"
     },
     {
-        "name": "Panda",
-        "image": "https://example.com/images/panda.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 10,
+        "name": "Kangaroo",
+        "scientific_name": "Macropus",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Australia",
+        "habitat": "Forests, savannas, grasslands",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/kangaroo.jpg"
     },
     {
+        "id": 11,
+        "name": "Giraffe",
+        "scientific_name": "Giraffa camelopardalis",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Africa",
+        "habitat": "Savannas, woodlands",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/giraffe.jpg"
+    },
+    {
+        "id": 12,
         "name": "Red Panda",
-        "image": "https://example.com/images/red_panda.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "scientific_name": "Ailurus fulgens",
+        "class": "Mammalia",
+        "diet": "Omnivore",
+        "location": "Eastern Himalayas",
+        "habitat": "Temperate forests",
+        "conservation_status": "Endangered",
+        "image_url": "https://example.com/images/red_panda.jpg"
     },
     {
-        "name": "Kangaroo Rat",
-        "image": "https://example.com/images/kangaroo_rat.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 13,
+        "name": "Giant Panda",
+        "scientific_name": "Ailuropoda melanoleuca",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Central China",
+        "habitat": "Mountainous forests",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/giant_panda.jpg"
     },
     {
+        "id": 14,
+        "name": "Penguin",
+        "scientific_name": "Spheniscidae",
+        "class": "Aves",
+        "diet": "Carnivore",
+        "location": "Southern Hemisphere",
+        "habitat": "Oceans, coastal areas",
+        "conservation_status": "Varies by species",
+        "image_url": "https://example.com/images/penguin.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Bald Eagle",
+        "scientific_name": "Haliaeetus leucocephalus",
+        "class": "Aves",
+        "diet": "Carnivore",
+        "location": "North America",
+        "habitat": "Forests near water",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/bald_eagle.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Crocodile",
+        "scientific_name": "Crocodylinae",
+        "class": "Reptilia",
+        "diet": "Carnivore",
+        "location": "Tropics of Africa, Asia, Americas, and Australia",
+        "habitat": "Freshwater habitats, wetlands",
+        "conservation_status": "Varies by species",
+        "image_url": "https://example.com/images/crocodile.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Komodo Dragon",
+        "scientific_name": "Varanus komodoensis",
+        "class": "Reptilia",
+        "diet": "Carnivore",
+        "location": "Indonesia",
+        "habitat": "Tropical savannas, forests",
+        "conservation_status": "Endangered",
+        "image_url": "https://example.com/images/komodo_dragon.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "All oceans",
+        "habitat": "Open ocean",
+        "conservation_status": "Endangered",
+        "image_url": "https://example.com/images/blue_whale.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Dolphin",
+        "scientific_name": "Delphinidae",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "Oceans worldwide",
+        "habitat": "Coastal waters and open ocean",
+        "conservation_status": "Varies by species",
+        "image_url": "https://example.com/images/dolphin.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "class": "Chondrichthyes",
+        "diet": "Carnivore",
+        "location": "Coastal and offshore waters",
+        "habitat": "Temperate coastal waters",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/great_white_shark.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Pangolin",
+        "scientific_name": "Pholidota",
+        "class": "Mammalia",
+        "diet": "Insectivore",
+        "location": "Asia and Africa",
+        "habitat": "Tropical forests, savannas",
+        "conservation_status": "Varies by species, all endangered",
+        "image_url": "https://example.com/images/pangolin.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Arctic Fox",
+        "scientific_name": "Vulpes lagopus",
+        "class": "Mammalia",
+        "diet": "Omnivore",
+        "location": "Arctic regions",
+        "habitat": "Tundra",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/arctic_fox.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Chimpanzee",
+        "scientific_name": "Pan troglodytes",
+        "class": "Mammalia",
+        "diet": "Omnivore",
+        "location": "West and Central Africa",
+        "habitat": "Forests, savannas",
+        "conservation_status": "Endangered",
+        "image_url": "https://example.com/images/chimpanzee.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Emperor Penguin",
+        "scientific_name": "Aptenodytes forsteri",
+        "class": "Aves",
+        "diet": "Carnivore",
+        "location": "Antarctica",
+        "habitat": "Ice floes, frigid waters",
+        "conservation_status": "Near Threatened",
+        "image_url": "https://example.com/images/emperor_penguin.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Sloth",
+        "scientific_name": "Folivora",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Central and South America",
+        "habitat": "Rainforest canopies",
+        "conservation_status": "Varies by species",
+        "image_url": "https://example.com/images/sloth.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Jaguar",
+        "scientific_name": "Panthera onca",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "Americas",
+        "habitat": "Rainforests, swamps",
+        "conservation_status": "Near Threatened",
+        "image_url": "https://example.com/images/jaguar.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Orangutan",
+        "scientific_name": "Pongo",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Indonesia and Malaysia",
+        "habitat": "Tropical rainforests",
+        "conservation_status": "Critically Endangered",
+        "image_url": "https://example.com/images/orangutan.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Anaconda",
+        "scientific_name": "Eunectes",
+        "class": "Reptilia",
+        "diet": "Carnivore",
+        "location": "South America",
+        "habitat": "Swamps, marshes, slow-moving streams",
+        "conservation_status": "Varies by species",
+        "image_url": "https://example.com/images/anaconda.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Emu",
+        "scientific_name": "Dromaius novaehollandiae",
+        "class": "Aves",
+        "diet": "Herbivore",
+        "location": "Australia",
+        "habitat": "Savannas, forests",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/emu.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Platypus",
+        "scientific_name": "Ornithorhynchus anatinus",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "Eastern Australia",
+        "habitat": "Freshwater rivers, streams",
+        "conservation_status": "Near Threatened",
+        "image_url": "https://example.com/images/platypus.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Red Fox",
+        "scientific_name": "Vulpes vulpes",
+        "class": "Mammalia",
+        "diet": "Omnivore",
+        "location": "Northern Hemisphere",
+        "habitat": "Forests, grasslands, urban areas",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/red_fox.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Capybara",
+        "scientific_name": "Hydrochoerus hydrochaeris",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "South America",
+        "habitat": "Savannas, dense forests near water",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/capybara.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Gila Monster",
+        "scientific_name": "Heloderma suspectum",
+        "class": "Reptilia",
+        "diet": "Carnivore",
+        "location": "Southwestern United States, Mexico",
+        "habitat": "Deserts, scrubland",
+        "conservation_status": "Near Threatened",
+        "image_url": "https://example.com/images/gila_monster.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Peregrine Falcon",
+        "scientific_name": "Falco peregrinus",
+        "class": "Aves",
+        "diet": "Carnivore",
+        "location": "Worldwide",
+        "habitat": "Open areas, coastlines, cities",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/peregrine_falcon.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Toucan",
+        "scientific_name": "Ramphastidae",
+        "class": "Aves",
+        "diet": "Omnivore",
+        "location": "Central and South America",
+        "habitat": "Tropical and subtropical rainforests",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/toucan.jpg"
+    },
+    {
+        "id": 36,
         "name": "Wombat",
-        "image": "https://example.com/images/wombat.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "scientific_name": "Vombatidae",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Australia",
+        "habitat": "Forested, mountainous areas",
+        "conservation_status": "Varies by species",
+        "image_url": "https://example.com/images/wombat.jpg"
     },
     {
-        "name": "Tasmanian Devil",
-        "image": "https://example.com/images/tasmanian_devil.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 37,
+        "name": "Kookaburra",
+        "scientific_name": "Dacelo",
+        "class": "Aves",
+        "diet": "Carnivore",
+        "location": "Eastern Australia",
+        "habitat": "Eucalyptus forests, urban areas",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/kookaburra.jpg"
     },
     {
-        "name": "Dingo",
-        "image": "https://example.com/images/dingo.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 38,
+        "name": "Narwhal",
+        "scientific_name": "Monodon monoceros",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "Arctic waters",
+        "habitat": "Arctic seas",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/narwhal.jpg"
     },
     {
+        "id": 39,
+        "name": "Dugong",
+        "scientific_name": "Dugong dugon",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Coastal Indo-Pacific waters",
+        "habitat": "Shallow coastal waters",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/dugong.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Manta Ray",
+        "scientific_name": "Manta",
+        "class": "Chondrichthyes",
+        "diet": "Carnivore",
+        "location": "Tropical, subtropical, and temperate oceans",
+        "habitat": "Tropical waters",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/manta_ray.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Bison",
+        "scientific_name": "Bison bison",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "North America",
+        "habitat": "Grasslands, plains",
+        "conservation_status": "Near Threatened",
+        "image_url": "https://example.com/images/bison.jpg"
+    },
+    {
+        "id": 42,
         "name": "Hedgehog",
-        "image": "https://example.com/images/hedgehog.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "scientific_name": "Erinaceinae",
+        "class": "Mammalia",
+        "diet": "Omnivore",
+        "location": "Eurasia, Africa",
+        "habitat": "Woodlands, grasslands, urban areas",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/hedgehog.jpg"
     },
     {
-        "name": "Porcupine",
-        "image": "https://example.com/images/porcupine.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 43,
+        "name": "Walrus",
+        "scientific_name": "Odobenus rosmarus",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "Arctic",
+        "habitat": "Shallow seas, coastlines",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/walrus.jpg"
     },
     {
-        "name": "Bat",
-        "image": "https://example.com/images/bat.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 44,
+        "name": "Moose",
+        "scientific_name": "Alces alces",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Northern Hemisphere",
+        "habitat": "Boreal forests, temperate broadleaf and mixed forests",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/moose.jpg"
     },
     {
-        "name": "Mole",
-        "image": "https://example.com/images/mole.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Squirrel",
-        "image": "https://example.com/images/squirrel.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Rabbit",
-        "image": "https://example.com/images/rabbit.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Hare",
-        "image": "https://example.com/images/hare.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Beaver",
-        "image": "https://example.com/images/beaver.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Raccoon",
-        "image": "https://example.com/images/raccoon.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Skunk",
-        "image": "https://example.com/images/skunk.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Fox",
-        "image": "https://example.com/images/fox.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Coyote",
-        "image": "https://example.com/images/coyote.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Jackal",
-        "image": "https://example.com/images/jackal.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Dog",
-        "image": "https://example.com/images/dog.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Cat",
-        "image": "https://example.com/images/cat.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Horse",
-        "image": "https://example.com/images/horse.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Donkey",
-        "image": "https://example.com/images/donkey.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
-        "name": "Camel",
-        "image": "https://example.com/images/camel.jpg",
-        "location": "Land",
-        "breed": "Mammal"
-    },
-    {
+        "id": 45,
         "name": "Llama",
-        "image": "https://example.com/images/llama.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "scientific_name": "Lama glama",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "South America (Andes)",
+        "habitat": "Highlands",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/llama.jpg"
     },
     {
-        "name": "Alpaca",
-        "image": "https://example.com/images/alpaca.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 46,
+        "name": "Iguana",
+        "scientific_name": "Iguana",
+        "class": "Reptilia",
+        "diet": "Herbivore",
+        "location": "Central America, South America, Caribbean",
+        "habitat": "Tropical forests",
+        "conservation_status": "Varies by species",
+        "image_url": "https://example.com/images/iguana.jpg"
     },
     {
-        "name": "Goat",
-        "image": "https://example.com/images/goat.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 47,
+        "name": "Gorilla",
+        "scientific_name": "Gorilla",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Central Africa",
+        "habitat": "Forests",
+        "conservation_status": "Critically Endangered",
+        "image_url": "https://example.com/images/gorilla.jpg"
     },
     {
-        "name": "Sheep",
-        "image": "https://example.com/images/sheep.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 48,
+        "name": "Okapi",
+        "scientific_name": "Okapia johnstoni",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Democratic Republic of the Congo",
+        "habitat": "Tropical rainforest",
+        "conservation_status": "Endangered",
+        "image_url": "https://example.com/images/okapi.jpg"
     },
     {
-        "name": "Pig",
-        "image": "https://example.com/images/pig.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 49,
+        "name": "Quokka",
+        "scientific_name": "Setonix brachyurus",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Australia",
+        "habitat": "Coastal heaths, forests",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/quokka.jpg"
     },
     {
-        "name": "Cow",
-        "image": "https://example.com/images/cow.jpg",
-        "location": "Land",
-        "breed": "Mammal"
+        "id": 50,
+        "name": "Puma",
+        "scientific_name": "Puma concolor",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "Americas",
+        "habitat": "Mountains, forests, deserts",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/puma.jpg"
     },
     {
-        "name": "Chicken",
-        "image": "https://example.com/images/chicken.jpg",
-        "location": "Sky/Various",
-        "breed": "Bird"
+        "id": 51,
+        "name": "Hyena",
+        "scientific_name": "Hyaenidae",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "Africa and Asia",
+        "habitat": "Savannas, grasslands, woodlands",
+        "conservation_status": "Varies by species",
+        "image_url": "https://example.com/images/hyena.jpg"
     },
     {
-        "name": "Duck",
-        "image": "https://example.com/images/duck.jpg",
-        "location": "Sky/Various",
-        "breed": "Bird"
+        "id": 52,
+        "name": "Jellyfish",
+        "scientific_name": "Medusozoa",
+        "class": "Scyphozoa",
+        "diet": "Carnivore",
+        "location": "Oceans worldwide",
+        "habitat": "Marine environments",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/jellyfish.jpg"
     },
     {
-        "name": "Goose",
-        "image": "https://example.com/images/goose.jpg",
-        "location": "Sky/Various",
-        "breed": "Bird"
+        "id": 53,
+        "name": "Ostrich",
+        "scientific_name": "Struthio camelus",
+        "class": "Aves",
+        "diet": "Herbivore",
+        "location": "Africa",
+        "habitat": "Savannas, grasslands",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/ostrich.jpg"
     },
     {
-        "name": "Swan",
-        "image": "https://example.com/images/swan.jpg",
-        "location": "Sky/Various",
-        "breed": "Bird"
+        "id": 54,
+        "name": "King Cobra",
+        "scientific_name": "Ophiophagus hannah",
+        "class": "Reptilia",
+        "diet": "Carnivore",
+        "location": "India, Southeast Asia",
+        "habitat": "Forests, mangroves",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/king_cobra.jpg"
     },
     {
-        "name": "Turkey",
-        "image": "https://example.com/images/turkey.jpg",
-        "location": "Sky/Various",
-        "breed": "Bird"
+        "id": 55,
+        "name": "Armadillo",
+        "scientific_name": "Cingulata",
+        "class": "Mammalia",
+        "diet": "Omnivore",
+        "location": "Americas",
+        "habitat": "Grasslands, forests, savannas",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/armadillo.jpg"
     },
     {
-        "name": "Pigeon",
-        "image": "https://example.com/images/pigeon.jpg",
-        "location": "Sky/Various",
-        "breed": "Bird"
+        "id": 56,
+        "name": "Lemur",
+        "scientific_name": "Lemuroidea",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Madagascar",
+        "habitat": "Forests",
+        "conservation_status": "Critically Endangered",
+        "image_url": "https://example.com/images/lemur.jpg"
+    },
+    {
+        "id": 57,
+        "name": "Wolverine",
+        "scientific_name": "Gulo gulo",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "Northern Hemisphere",
+        "habitat": "Tundra, taiga, alpine regions",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/wolverine.jpg"
+    },
+    {
+        "id": 58,
+        "name": "Axolotl",
+        "scientific_name": "Ambystoma mexicanum",
+        "class": "Amphibia",
+        "diet": "Carnivore",
+        "location": "Mexico",
+        "habitat": "Freshwater lakes",
+        "conservation_status": "Critically Endangered",
+        "image_url": "https://example.com/images/axolotl.jpg"
+    },
+    {
+        "id": 59,
+        "name": "Red-crowned Crane",
+        "scientific_name": "Antigone japonensis",
+        "class": "Aves",
+        "diet": "Omnivore",
+        "location": "East Asia",
+        "habitat": "Wetlands, marshes",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/red_crowned_crane.jpg"
+    },
+    {
+        "id": 60,
+        "name": "Mongoose",
+        "scientific_name": "Herpestidae",
+        "class": "Mammalia",
+        "diet": "Carnivore",
+        "location": "Africa, Asia, Europe",
+        "habitat": "Forests, savannas, deserts",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/mongoose.jpg"
+    },
+    {
+        "id": 61,
+        "name": "Aardvark",
+        "scientific_name": "Orycteropus afer",
+        "class": "Mammalia",
+        "diet": "Insectivore",
+        "location": "Africa",
+        "habitat": "Grasslands, savannas, woodlands",
+        "conservation_status": "Least Concern",
+        "image_url": "https://example.com/images/aardvark.jpg"
+    },
+    {
+        "id": 62,
+        "name": "Reindeer",
+        "scientific_name": "Rangifer tarandus",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Arctic, subarctic, and boreal regions",
+        "habitat": "Tundra, forests",
+        "conservation_status": "Vulnerable",
+        "image_url": "https://example.com/images/reindeer.jpg"
+    },
+    {
+        "id": 63,
+        "name": "Puffin",
+        "scientific_name": "Fratercula",
+        "class": "Aves",
+        "diet": "Carnivore",
+        "location": "North Atlantic and North Pacific Oceans",
+        "habitat": "Coastal cliffs, rocky islands",
+        "conservation_status": "Varies by species",
+        "image_url": "https://example.com/images/puffin.jpg"
+    },
+    {
+        "id": 64,
+        "name": "Chameleon",
+        "scientific_name": "Chamaeleonidae",
+        "class": "Reptilia",
+        "diet": "Carnivore",
+        "location": "Africa, southern Europe, Asia",
+        "habitat": "Rainforests, deserts, savannas",
+        "conservation_status": "Varies by species",
+        "image_url": "https://example.com/images/chameleon.jpg"
+    },
+    {
+        "id": 65,
+        "name": "Gibbon",
+        "scientific_name": "Hylobatidae",
+        "class": "Mammalia",
+        "diet": "Herbivore",
+        "location": "Southeast Asia",
+        "habitat": "Tropical and subtropical rainforests",
+        "conservation_status": "Varies by species",
+        "image_url": "https://example.com/images/emu.jpg"
     }
 ]
