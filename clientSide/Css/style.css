@@ -31,4 +31,8 @@
     transition: transform 0.3s;
 }
 
+#aboutArticle p {
+    text-justify: auto;
+}
+
 /* Comman css  End*/

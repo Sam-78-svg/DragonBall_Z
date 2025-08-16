@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Tiger",
+        "image": "https://example.com/images/tiger.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Lion",
+        "image": "https://example.com/images/lion.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Elephant",
+        "image": "https://example.com/images/elephant.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Leopard",
+        "image": "https://example.com/images/leopard.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Panther",
+        "image": "https://example.com/images/panther.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Cheetah",
+        "image": "https://example.com/images/cheetah.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Wolf",
+        "image": "https://example.com/images/wolf.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Jaguar",
+        "image": "https://example.com/images/jaguar.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Hyena",
+        "image": "https://example.com/images/hyena.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Giraffe",
+        "image": "https://example.com/images/giraffe.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Deer",
+        "image": "https://example.com/images/deer.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Zebra",
+        "image": "https://example.com/images/zebra.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Gorilla",
+        "image": "https://example.com/images/gorilla.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Monkey",
+        "image": "https://example.com/images/monkey.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Chimpanzee",
+        "image": "https://example.com/images/chimpanzee.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Bear",
+        "image": "https://example.com/images/bear.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Wild Boar",
+        "image": "https://example.com/images/wild_boar.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Hippopotamus",
+        "image": "https://example.com/images/hippopotamus.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Kangaroo",
+        "image": "https://example.com/images/kangaroo.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Rhinoceros",
+        "image": "https://example.com/images/rhinoceros.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Crocodile",
+        "image": "https://example.com/images/crocodile.jpg",
+        "location": "Various (Forests, Rivers, Deserts)",
+        "breed": "Reptile"
+    },
+    {
+        "name": "Alligator",
+        "image": "https://example.com/images/alligator.jpg",
+        "location": "Various (Forests, Rivers, Deserts)",
+        "breed": "Reptile"
+    },
+    {
+        "name": "Snake",
+        "image": "https://example.com/images/snake.jpg",
+        "location": "Various (Forests, Rivers, Deserts)",
+        "breed": "Reptile"
+    },
+    {
+        "name": "Python",
+        "image": "https://example.com/images/python.jpg",
+        "location": "Various (Forests, Rivers, Deserts)",
+        "breed": "Reptile"
+    },
+    {
+        "name": "Cobra",
+        "image": "https://example.com/images/cobra.jpg",
+        "location": "Various (Forests, Rivers, Deserts)",
+        "breed": "Reptile"
+    },
+    {
+        "name": "Vulture",
+        "image": "https://example.com/images/vulture.jpg",
+        "location": "Sky/Various",
+        "breed": "Bird"
+    },
+    {
+        "name": "Eagle",
+        "image": "https://example.com/images/eagle.jpg",
+        "location": "Sky/Various",
+        "breed": "Bird"
+    },
+    {
+        "name": "Falcon",
+        "image": "https://example.com/images/falcon.jpg",
+        "location": "Sky/Various",
+        "breed": "Bird"
+    },
+    {
+        "name": "Owl",
+        "image": "https://example.com/images/owl.jpg",
+        "location": "Sky/Various",
+        "breed": "Bird"
+    },
+    {
+        "name": "Parrot",
+        "image": "https://example.com/images/parrot.jpg",
+        "location": "Sky/Various",
+        "breed": "Bird"
+    },
+    {
+        "name": "Peacock",
+        "image": "https://example.com/images/peacock.jpg",
+        "location": "Sky/Various",
+        "breed": "Bird"
+    },
+    {
+        "name": "Penguin",
+        "image": "https://example.com/images/penguin.jpg",
+        "location": "Sky/Various",
+        "breed": "Bird"
+    },
+    {
+        "name": "Seal",
+        "image": "https://example.com/images/seal.jpg",
+        "location": "Oceans/Seas",
+        "breed": "Marine Animal"
+    },
+    {
+        "name": "Walrus",
+        "image": "https://example.com/images/walrus.jpg",
+        "location": "Oceans/Seas",
+        "breed": "Marine Animal"
+    },
+    {
+        "name": "Otter",
+        "image": "https://example.com/images/otter.jpg",
+        "location": "Oceans/Seas",
+        "breed": "Marine Animal"
+    },
+    {
+        "name": "Dolphin",
+        "image": "https://example.com/images/dolphin.jpg",
+        "location": "Oceans & Rivers",
+        "breed": "Fish"
+    },
+    {
+        "name": "Whale",
+        "image": "https://example.com/images/whale.jpg",
+        "location": "Oceans & Rivers",
+        "breed": "Fish"
+    },
+    {
+        "name": "Shark",
+        "image": "https://example.com/images/shark.jpg",
+        "location": "Oceans & Rivers",
+        "breed": "Fish"
+    },
+    {
+        "name": "Octopus",
+        "image": "https://example.com/images/octopus.jpg",
+        "location": "Oceans/Seas",
+        "breed": "Marine Animal"
+    },
+    {
+        "name": "Squid",
+        "image": "https://example.com/images/squid.jpg",
+        "location": "Oceans/Seas",
+        "breed": "Marine Animal"
+    },
+    {
+        "name": "Turtle",
+        "image": "https://example.com/images/turtle.jpg",
+        "location": "Various (Forests, Rivers, Deserts)",
+        "breed": "Reptile"
+    },
+    {
+        "name": "Tortoise",
+        "image": "https://example.com/images/tortoise.jpg",
+        "location": "Various (Forests, Rivers, Deserts)",
+        "breed": "Reptile"
+    },
+    {
+        "name": "Lizard",
+        "image": "https://example.com/images/lizard.jpg",
+        "location": "Various (Forests, Rivers, Deserts)",
+        "breed": "Reptile"
+    },
+    {
+        "name": "Komodo Dragon",
+        "image": "https://example.com/images/komodo_dragon.jpg",
+        "location": "Various (Forests, Rivers, Deserts)",
+        "breed": "Reptile"
+    },
+    {
+        "name": "Iguana",
+        "image": "https://example.com/images/iguana.jpg",
+        "location": "Various (Forests, Rivers, Deserts)",
+        "breed": "Reptile"
+    },
+    {
+        "name": "Chameleon",
+        "image": "https://example.com/images/chameleon.jpg",
+        "location": "Various (Forests, Rivers, Deserts)",
+        "breed": "Reptile"
+    },
+    {
+        "name": "Frog",
+        "image": "https://example.com/images/frog.jpg",
+        "location": "Freshwater & Forests",
+        "breed": "Amphibian"
+    },
+    {
+        "name": "Toad",
+        "image": "https://example.com/images/toad.jpg",
+        "location": "Freshwater & Forests",
+        "breed": "Amphibian"
+    },
+    {
+        "name": "Salamander",
+        "image": "https://example.com/images/salamander.jpg",
+        "location": "Freshwater & Forests",
+        "breed": "Amphibian"
+    },
+    {
+        "name": "Newt",
+        "image": "https://example.com/images/newt.jpg",
+        "location": "Freshwater & Forests",
+        "breed": "Amphibian"
+    },
+    {
+        "name": "Camel",
+        "image": "https://example.com/images/camel.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Bison",
+        "image": "https://example.com/images/bison.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Yak",
+        "image": "https://example.com/images/yak.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Buffalo",
+        "image": "https://example.com/images/buffalo.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Moose",
+        "image": "https://example.com/images/moose.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Elk",
+        "image": "https://example.com/images/elk.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Antelope",
+        "image": "https://example.com/images/antelope.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Gazelle",
+        "image": "https://example.com/images/gazelle.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Kudu",
+        "image": "https://example.com/images/kudu.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Okapi",
+        "image": "https://example.com/images/okapi.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Sloth",
+        "image": "https://example.com/images/sloth.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Armadillo",
+        "image": "https://example.com/images/armadillo.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Pangolin",
+        "image": "https://example.com/images/pangolin.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Koala",
+        "image": "https://example.com/images/koala.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Panda",
+        "image": "https://example.com/images/panda.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Red Panda",
+        "image": "https://example.com/images/red_panda.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Kangaroo Rat",
+        "image": "https://example.com/images/kangaroo_rat.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Wombat",
+        "image": "https://example.com/images/wombat.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Tasmanian Devil",
+        "image": "https://example.com/images/tasmanian_devil.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Dingo",
+        "image": "https://example.com/images/dingo.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Hedgehog",
+        "image": "https://example.com/images/hedgehog.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Porcupine",
+        "image": "https://example.com/images/porcupine.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Bat",
+        "image": "https://example.com/images/bat.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Mole",
+        "image": "https://example.com/images/mole.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Squirrel",
+        "image": "https://example.com/images/squirrel.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Rabbit",
+        "image": "https://example.com/images/rabbit.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Hare",
+        "image": "https://example.com/images/hare.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Beaver",
+        "image": "https://example.com/images/beaver.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Raccoon",
+        "image": "https://example.com/images/raccoon.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Skunk",
+        "image": "https://example.com/images/skunk.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Fox",
+        "image": "https://example.com/images/fox.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Coyote",
+        "image": "https://example.com/images/coyote.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Jackal",
+        "image": "https://example.com/images/jackal.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Dog",
+        "image": "https://example.com/images/dog.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Cat",
+        "image": "https://example.com/images/cat.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Horse",
+        "image": "https://example.com/images/horse.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Donkey",
+        "image": "https://example.com/images/donkey.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Camel",
+        "image": "https://example.com/images/camel.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Llama",
+        "image": "https://example.com/images/llama.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Alpaca",
+        "image": "https://example.com/images/alpaca.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Goat",
+        "image": "https://example.com/images/goat.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Sheep",
+        "image": "https://example.com/images/sheep.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Pig",
+        "image": "https://example.com/images/pig.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Cow",
+        "image": "https://example.com/images/cow.jpg",
+        "location": "Land",
+        "breed": "Mammal"
+    },
+    {
+        "name": "Chicken",
+        "image": "https://example.com/images/chicken.jpg",
+        "location": "Sky/Various",
+        "breed": "Bird"
+    },
+    {
+        "name": "Duck",
+        "image": "https://example.com/images/duck.jpg",
+        "location": "Sky/Various",
+        "breed": "Bird"
+    },
+    {
+        "name": "Goose",
+        "image": "https://example.com/images/goose.jpg",
+        "location": "Sky/Various",
+        "breed": "Bird"
+    },
+    {
+        "name": "Swan",
+        "image": "https://example.com/images/swan.jpg",
+        "location": "Sky/Various",
+        "breed": "Bird"
+    },
+    {
+        "name": "Turkey",
+        "image": "https://example.com/images/turkey.jpg",
+        "location": "Sky/Various",
+        "breed": "Bird"
+    },
+    {
+        "name": "Pigeon",
+        "image": "https://example.com/images/pigeon.jpg",
+        "location": "Sky/Various",
+        "breed": "Bird"
+    }
+]
