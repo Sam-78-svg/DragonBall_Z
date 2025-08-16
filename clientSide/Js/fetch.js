@@ -59,7 +59,7 @@ function filterSearch() {
 
     const searchInput = document.getElementById('searchInput').value.toLowerCase();
     const filteredCars = outChar.filter((character) => {
-        return character.name.toLowerCase().includes(searchInput) || String(character.id) === searchInput || character.race.toLowerCase().includes(searchInput);  //convert the character id to string for comparison
+        return character.name.toLowerCase() === searchInput || String(character.id) === searchInput || character.race.toLowerCase().includes(searchInput);  //convert the character id to string for comparison
     });
     displayChar(filteredCars);
     if (filteredCars.length === 0) {
@@ -67,7 +67,7 @@ function filterSearch() {
     }
 }
 fetchCharacter();
-searchBtn.addEventListener('click' || 'enter', filterSearch);
+searchBtn.addEventListener('click', filterSearch);
 searchInput.addEventListener('keydown', (e) => {
     if (e.key === 'Enter') {
         filterSearch();
