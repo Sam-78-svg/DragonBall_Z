@@ -6,7 +6,7 @@
       "episode_name": "The New Threat",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Raditz arrives on Earth and reveals Goku's Saiyan heritage, kidnapping young Gohan.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -14,7 +14,7 @@
       "episode_name": "Reunions",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Goku and Piccolo form a tense alliance to confront Raditz and rescue Gohan.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -22,7 +22,7 @@
       "episode_name": "Unlikely Alliance",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Goku and Piccolo battle Raditz, discovering the enemy's overwhelming power.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -30,7 +30,7 @@
       "episode_name": "Piccolo's Plan",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Piccolo trains Gohan for the incoming Saiyan threat while Goku begins his afterlife journey.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -38,7 +38,7 @@
       "episode_name": "Gohan's Rage",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Gohan’s hidden power erupts in a moment of desperation, hinting at his enormous potential.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -46,7 +46,7 @@
       "episode_name": "No Time Like the Present",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Kami prepares Goku to travel Snake Way as Piccolo’s harsh training of Gohan continues.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -54,7 +54,7 @@
       "episode_name": "Day 1",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Gohan struggles to survive alone in the wilderness, beginning his growth through hardship.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -62,7 +62,7 @@
       "episode_name": "Gohan Goes Bananas!",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Under the full moon, Gohan transforms into a Great Ape, forcing Piccolo to intervene.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -70,7 +70,7 @@
       "episode_name": "The Strangest Robot",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Gohan befriends an odd robot in a cave while continuing his survival training.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -78,7 +78,7 @@
       "episode_name": "A New Friend",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Gohan meets a gentle dinosaur and learns compassion alongside strength.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -86,7 +86,7 @@
       "episode_name": "Terror on Arlia",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Vegeta and Nappa make a brutal detour to the planet Arlia, showcasing their ruthlessness.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -94,7 +94,7 @@
       "episode_name": "Global Training",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "The Z Fighters begin intense global training as the Saiyans speed toward Earth.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -102,7 +102,7 @@
       "episode_name": "Goz and Mez",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "In the Other World, Goku meets ogres Goz and Mez on his way along Snake Way.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -110,7 +110,7 @@
       "episode_name": "Princess Snake",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Goku is tempted and delayed by Princess Snake as he hurries to reach King Kai.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -118,7 +118,7 @@
       "episode_name": "Dueling Piccolos",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Kami creates an image-double of Piccolo to test Gohan’s progress.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -126,7 +126,7 @@
       "episode_name": "Plight of the Children",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Gohan protects a group of orphans, proving his courage and growing resolve.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -134,7 +134,7 @@
       "episode_name": "Pendulum Room Peril",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "At Kami’s Lookout, the Z Fighters face the Pendulum Room’s deadly historical simulation.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -142,7 +142,7 @@
       "episode_name": "The End of Snake Way",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Goku finally reaches the end of Snake Way and arrives at King Kai’s planet.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -150,7 +150,7 @@
       "episode_name": "Defying Gravity",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Goku trains with extreme gravity and learns to catch King Kai’s speedy monkey, Bubbles.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -158,7 +158,7 @@
       "episode_name": "Goku's Ancestors",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Goku learns of the Saiyans’ roots from King Kai and attempts to strike Gregory.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -166,7 +166,7 @@
       "episode_name": "Counting Down",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "With the Saiyans nearly at Earth, the Z Fighters count down and prepare for battle.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -174,7 +174,7 @@
       "episode_name": "The Darkest Day",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Vegeta and Nappa land on Earth as the Z Fighters square off against the invaders.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -182,7 +182,7 @@
       "episode_name": "Saibamen Attack!",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Nappa unleashes the Saibamen; Yamcha falls in battle, shocking the team.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -190,7 +190,7 @@
       "episode_name": "The Power of Nappa",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Nappa proves devastatingly strong, battering the Z Fighters despite their efforts.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -198,7 +198,7 @@
       "episode_name": "Sacrifice",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Chiaotzu and Tien make tragic sacrifices as Nappa continues his rampage.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -206,7 +206,7 @@
       "episode_name": "Nappa's Rampage",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Piccolo, Krillin, and Gohan fight to survive until Goku can arrive from Snake Way.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -214,7 +214,7 @@
       "episode_name": "Nimbus Speed",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Goku rides Nimbus at top speed after completing his training with King Kai.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -222,7 +222,7 @@
       "episode_name": "Goku's Arrival",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Goku arrives on the battlefield and uses the Kaio-ken to stop Nappa.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -230,7 +230,7 @@
       "episode_name": "Lesson Number One",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Goku begins training Gohan and Krillin for the escalating battles to come.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -238,7 +238,7 @@
       "episode_name": "Goku vs. Vegeta",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Goku battles Vegeta in an earthshaking duel of techniques and willpower.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -246,7 +246,7 @@
       "episode_name": "Saiyan Sized Secret",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Vegeta is shocked to learn of Goku’s true Saiyan origins and power growth.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -254,7 +254,7 @@
       "episode_name": "Spirit Bomb Away!",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Goku gathers energy for the Spirit Bomb while allies stall Vegeta.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -262,7 +262,7 @@
       "episode_name": "Hero in the Shadows",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Yajirobe strikes from the shadows, giving the heroes a critical opening.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -270,7 +270,7 @@
       "episode_name": "Krillin's Offensive",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Krillin launches a fierce offensive as the wounded warriors regroup.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -278,7 +278,7 @@
       "episode_name": "Mercy",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Goku urges mercy for a defeated Vegeta, allowing the Saiyan to retreat.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -286,7 +286,7 @@
       "episode_name": "Picking Up the Pieces",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "The team tends to the wounded and contemplates the heavy cost of the battle.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -294,7 +294,7 @@
       "episode_name": "Plans for Departure",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "Bulma, Krillin, and Gohan prepare a plan to travel to Namek for new Dragon Balls.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -302,7 +302,7 @@
       "episode_name": "Nursing Wounds",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "The heroes recover from the Saiyan conflict as they finalize their departure plans.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     },
     {
@@ -310,7 +310,7 @@
       "episode_name": "Friends or Foes?",
       "season_name": "Dragon Ball Z — Season 1",
       "description": "On the way to Namek, the travelers encounter a mysterious ship and its children.",
-      "image": "https://placehold.co/300?text=DBZ+World&font=roboto",
+      "image": "./src/img/img1.jpg",
       "duration": "23 min"
     }
   ]
