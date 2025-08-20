@@ -21,6 +21,7 @@
             }
             $("#episodeListingArea").slideToggle(500);
         });
+
         $("#season2Btn").click(() => {
             // Only fetch if the area is empty
             if ($("#episodeListingArea2").is(":empty")) {
@@ -28,9 +29,10 @@
             }
             $("#episodeListingArea2").slideToggle(500);
         });
+
         $("#season3Btn").click(() => {
             // Only fetch if the area is empty
-            if ($("#episodeListingArea").is(":empty")) {
+            if ($("#episodeListingArea3").is(":empty")) {
                 fetchEp3();
             }
             $("#episodeListingArea3").slideToggle(500);
@@ -94,15 +96,17 @@
 
             </div>
         </section>
+
         <section>
             <div class="text-center text-light col-12 fs-2 mt-3">
-                <button class="btn btn-primary col-12 d-flex justify-content-between" type="button" id="season2Btn">
+                <button class="btn btn-primary col-12 d-flex justify-content-between" type="button" id="season3Btn">
                     <strong>Season 3</strong><span><i class="fa fa-arrow-down" aria-hidden="true"></i></span>
                 </button>
             </div>
             <div class="p-4 m-1 rouded bg-dark" id="episodeListingArea3" style="display: none;">
 
             </div>
+        </section>
 
 
     </main>
