@@ -6,7 +6,7 @@
       "episode_name": "Held Captive",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Held Captive in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E01",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -14,7 +14,7 @@
       "episode_name": "Friends or Foes?",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Friends or Foes? in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E02",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -22,7 +22,7 @@
       "episode_name": "Unknown Enemies",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Unknown Enemies in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E03",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -30,7 +30,7 @@
       "episode_name": "Kami Has Problems",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Kami Has Problems in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E04",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -38,7 +38,7 @@
       "episode_name": "Journey to Namek",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Journey to Namek in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E05",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -46,7 +46,7 @@
       "episode_name": "Friends or Foes? (Ship Encounter)",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Friends or Foes? (Ship Encounter) in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E06",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -54,7 +54,7 @@
       "episode_name": "The Nimbus Speed",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for The Nimbus Speed in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E07",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -62,7 +62,7 @@
       "episode_name": "Nursing Wounds",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Nursing Wounds in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E08",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -70,7 +70,7 @@
       "episode_name": "Friends of Namek",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Friends of Namek in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E09",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -78,7 +78,7 @@
       "episode_name": "Brood of Evil",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Brood of Evil in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E10",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -86,7 +86,7 @@
       "episode_name": "Frieza Strikes!",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Frieza Strikes! in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E11",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -94,7 +94,7 @@
       "episode_name": "Defying Orders",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Defying Orders in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E12",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -102,7 +102,7 @@
       "episode_name": "Namek's Defense",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Namek's Defense in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E13",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -110,7 +110,7 @@
       "episode_name": "The Hunted",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for The Hunted in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E14",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -118,7 +118,7 @@
       "episode_name": "Escape from Dodoria",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Escape from Dodoria in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E15",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -126,7 +126,7 @@
       "episode_name": "The Power of Vegeta",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for The Power of Vegeta in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E16",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -134,7 +134,7 @@
       "episode_name": "Piccolo vs. Everyone",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Piccolo vs. Everyone in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E17",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -142,7 +142,7 @@
       "episode_name": "Zarbon Transformed",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Zarbon Transformed in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E18",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -150,7 +150,7 @@
       "episode_name": "The Eldest Namek",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for The Eldest Namek in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E19",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -158,7 +158,7 @@
       "episode_name": "Get Vegeta!",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Get Vegeta! in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E20",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -166,7 +166,7 @@
       "episode_name": "Gohan, the Hunted",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Gohan, the Hunted in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E21",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -174,7 +174,7 @@
       "episode_name": "Unknown Enemies (Ginyu Force arrives)",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Unknown Enemies (Ginyu Force arrives) in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E22",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -182,7 +182,7 @@
       "episode_name": "Power of the Ginyu Force",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Power of the Ginyu Force in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E23",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -190,7 +190,7 @@
       "episode_name": "Recoome Unleashed",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Recoome Unleashed in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E24",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -198,7 +198,7 @@
       "episode_name": "Super Saiyan? Goku Arrives",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Super Saiyan? Goku Arrives in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E25",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -206,7 +206,7 @@
       "episode_name": "Goku’s New Power",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Goku’s New Power in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E26",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -214,7 +214,7 @@
       "episode_name": "Goku vs. Recoome",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Goku vs. Recoome in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E27",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -222,7 +222,7 @@
       "episode_name": "Goku vs. Burter and Jeice",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Goku vs. Burter and Jeice in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E28",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -230,7 +230,7 @@
       "episode_name": "Goku vs. Captain Ginyu",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Goku vs. Captain Ginyu in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E29",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -238,7 +238,7 @@
       "episode_name": "Incredible Force!",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Incredible Force! in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E30",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -246,7 +246,7 @@
       "episode_name": "Frieza Approaches",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Frieza Approaches in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E31",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -254,7 +254,7 @@
       "episode_name": "The End of Vegeta",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for The End of Vegeta in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E32",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -262,7 +262,7 @@
       "episode_name": "A Nightmare Transformation",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for A Nightmare Transformation in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E33",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -270,7 +270,7 @@
       "episode_name": "Frieza's Second Transformation",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Frieza's Second Transformation in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E34",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -278,7 +278,7 @@
       "episode_name": "Another Transformation?",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Another Transformation? in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E35",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     },
     {
@@ -286,7 +286,7 @@
       "episode_name": "Frieza’s Final Form",
       "season_name": "Dragon Ball Z — Season 2",
       "description": "Episode summary for Frieza’s Final Form in Dragon Ball Z — Season 2.",
-      "image": "https://via.placeholder.com/640x360?text=Dragon+Ball+Z+—+Season+2+E36",
+      "image": "./src/img/img2.jpg",
       "duration": "23 min"
     }
   ]

@@ -76,7 +76,7 @@ function display2(data) {
         displayEp.setAttribute = ('background-color', '#dab5a3')
         displayEp.innerHTML = `
                             <div class="col-12 rounded-4 border border-2 p-0 col-md-3">
-                                <img src=""
+                                <img src="${ep.image}"
                                      style="object-fit:cover; height:100%;width:100%;cursor:pointer;"
                                      alt="${ep.episode_name}"
                                      class="rounded-4"
