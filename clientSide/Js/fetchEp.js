@@ -61,7 +61,7 @@ function display(data) {
                                 <p><strong>Season: </strong>${ep.season_name}</p>
                                 <p><strong>Description:  </strong>${ep.description}</p>
                                 <p><strong>Duration: </strong>${ep.duration}</p>
-                                <button class="btn btn-danger col-4 col-md-2 mt-2" onclick="window.location.href="#">Watch Now</button>
+                                <button class="btn btn-danger col-4 col-sm-3 col-md-2 mt-2" onclick="window.location.href="#">Watch Now</button>
                             </div>
         `;
 
@@ -90,7 +90,7 @@ function display2(data) {
                                 <p><strong>Season: </strong>${ep.season_name}</p>
                                 <p><strong>Description:  </strong>${ep.description}</p>
                                 <p><strong>Duration: </strong>${ep.duration}</p>
-                                <button class="btn btn-danger col-4 col-md-2 mt-2" onclick="window.location.href="#">Watch Now</button>
+                                <button class="btn btn-danger col-4 col-sm-3 col-md-2 mt-2" onclick="window.location.href="#">Watch Now</button>
                             </div>
         `;
 
@@ -119,7 +119,7 @@ function display3(data) {
                                 <p><strong>Season: </strong>${ep.season_name}</p>
                                 <p><strong>Description:  </strong>${ep.description}</p>
                                 <p><strong>Duration: </strong>${ep.duration}</p>
-                                <button class="btn btn-danger col-4 col-md-2 mt-2" onclick="window.location.href="#">Watch Now</button>
+                                <button class="btn btn-danger col-4 col-sm-3 col-md-2 mt-2" onclick="window.location.href="#">Watch Now</button>
                             </div>
         `;
 
