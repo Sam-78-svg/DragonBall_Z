@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "name": "Dragon Ball Z Manga Vol. 1",
+    "volume": 1,
+    "saga": "Saiyan Saga",
+    "episodes": {
+      "start": 1,
+      "end": 12,
+      "count": 12
+    },
+    "description": "Compilation volume 1 covering episodes 1–12.",
+    "image": "./src/img/mang/manga_vol_1"
+  },
+  {
+    "id": 2,
+    "name": "Dragon Ball Z Manga Vol. 2",
+    "volume": 2,
+    "saga": "Namek Saga",
+    "episodes": {
+      "start": 13,
+      "end": 24,
+      "count": 12
+    },
+    "description": "Compilation volume 2 covering episodes 13–24.",
+    "image": "./src/img/mang/manga_vol_2"
+  },
+  {
+    "id": 3,
+    "name": "Dragon Ball Z Manga Vol. 3",
+    "volume": 3,
+    "saga": "Frieza Saga",
+    "episodes": {
+      "start": 25,
+      "end": 36,
+      "count": 12
+    },
+    "description": "Compilation volume 3 covering episodes 25–36.",
+    "image": "./src/img/mang/manga_vol_3"
+  },
+  {
+    "id": 4,
+    "name": "Dragon Ball Z Manga Vol. 4",
+    "volume": 4,
+    "saga": "Androids Saga",
+    "episodes": {
+      "start": 37,
+      "end": 48,
+      "count": 12
+    },
+    "description": "Compilation volume 4 covering episodes 37–48.",
+    "image": "./src/img/mang/manga_vol_4"
+  },
+  {
+    "id": 5,
+    "name": "Dragon Ball Z Manga Vol. 5",
+    "volume": 5,
+    "saga": "Cell Saga",
+    "episodes": {
+      "start": 49,
+      "end": 60,
+      "count": 12
+    },
+    "description": "Compilation volume 5 covering episodes 49–60.",
+    "image": "./src/img/mang/manga_vol_5"
+  },
+  {
+    "id": 6,
+    "name": "Dragon Ball Z Manga Vol. 6",
+    "volume": 6,
+    "saga": "Majin Buu Saga",
+    "episodes": {
+      "start": 61,
+      "end": 72,
+      "count": 12
+    },
+    "description": "Compilation volume 6 covering episodes 61–72.",
+    "image": "./src/img/mang/manga_vol_6"
+  },
+  {
+    "id": 7,
+    "name": "Dragon Ball Z Manga Vol. 7",
+    "volume": 7,
+    "saga": "Saiyan Saga",
+    "episodes": {
+      "start": 73,
+      "end": 84,
+      "count": 12
+    },
+    "description": "Compilation volume 7 covering episodes 73–84.",
+    "image": "./src/img/mang/manga_vol_7"
+  },
+  {
+    "id": 8,
+    "name": "Dragon Ball Z Manga Vol. 8",
+    "volume": 8,
+    "saga": "Namek Saga",
+    "episodes": {
+      "start": 85,
+      "end": 96,
+      "count": 12
+    },
+    "description": "Compilation volume 8 covering episodes 85–96.",
+    "image": "./src/img/mang/manga_vol_8"
+  },
+  {
+    "id": 9,
+    "name": "Dragon Ball Z Manga Vol. 9",
+    "volume": 9,
+    "saga": "Frieza Saga",
+    "episodes": {
+      "start": 97,
+      "end": 108,
+      "count": 12
+    },
+    "description": "Compilation volume 9 covering episodes 97–108.",
+    "image": "./src/img/mang/manga_vol_9"
+  },
+  {
+    "id": 10,
+    "name": "Dragon Ball Z Manga Vol. 10",
+    "volume": 10,
+    "saga": "Androids Saga",
+    "episodes": {
+      "start": 109,
+      "end": 120,
+      "count": 12
+    },
+    "description": "Compilation volume 10 covering episodes 109–120.",
+    "image": "./src/img/mang/manga_vol_10"
+  },
+  {
+    "id": 11,
+    "name": "Dragon Ball Z Manga Vol. 11",
+    "volume": 11,
+    "saga": "Cell Saga",
+    "episodes": {
+      "start": 121,
+      "end": 132,
+      "count": 12
+    },
+    "description": "Compilation volume 11 covering episodes 121–132.",
+    "image": "./src/img/mang/manga_vol_11"
+  },
+  {
+    "id": 12,
+    "name": "Dragon Ball Z Manga Vol. 12",
+    "volume": 12,
+    "saga": "Majin Buu Saga",
+    "episodes": {
+      "start": 133,
+      "end": 144,
+      "count": 12
+    },
+    "description": "Compilation volume 12 covering episodes 133–144.",
+    "image": "./src/img/mang/manga_vol_12"
+  },
+  {
+    "id": 13,
+    "name": "Dragon Ball Z Manga Vol. 13",
+    "volume": 13,
+    "saga": "Saiyan Saga",
+    "episodes": {
+      "start": 145,
+      "end": 156,
+      "count": 12
+    },
+    "description": "Compilation volume 13 covering episodes 145–156.",
+    "image": "./src/img/mang/manga_vol_13"
+  },
+  {
+    "id": 14,
+    "name": "Dragon Ball Z Manga Vol. 14",
+    "volume": 14,
+    "saga": "Namek Saga",
+    "episodes": {
+      "start": 157,
+      "end": 168,
+      "count": 12
+    },
+    "description": "Compilation volume 14 covering episodes 157–168.",
+    "image": "./src/img/mang/manga_vol_14"
+  },
+  {
+    "id": 15,
+    "name": "Dragon Ball Z Manga Vol. 15",
+    "volume": 15,
+    "saga": "Frieza Saga",
+    "episodes": {
+      "start": 169,
+      "end": 180,
+      "count": 12
+    },
+    "description": "Compilation volume 15 covering episodes 169–180.",
+    "image": "./src/img/mang/manga_vol_15"
+  },
+  {
+    "id": 16,
+    "name": "Dragon Ball Z Manga Vol. 16",
+    "volume": 16,
+    "saga": "Androids Saga",
+    "episodes": {
+      "start": 181,
+      "end": 192,
+      "count": 12
+    },
+    "description": "Compilation volume 16 covering episodes 181–192.",
+    "image": "./src/img/mang/manga_vol_16"
+  },
+  {
+    "id": 17,
+    "name": "Dragon Ball Z Manga Vol. 17",
+    "volume": 17,
+    "saga": "Cell Saga",
+    "episodes": {
+      "start": 193,
+      "end": 204,
+      "count": 12
+    },
+    "description": "Compilation volume 17 covering episodes 193–204.",
+    "image": "./src/img/mang/manga_vol_17"
+  },
+  {
+    "id": 18,
+    "name": "Dragon Ball Z Manga Vol. 18",
+    "volume": 18,
+    "saga": "Majin Buu Saga",
+    "episodes": {
+      "start": 205,
+      "end": 216,
+      "count": 12
+    },
+    "description": "Compilation volume 18 covering episodes 205–216.",
+    "image": "./src/img/mang/manga_vol_18"
+  },
+  {
+    "id": 19,
+    "name": "Dragon Ball Z Manga Vol. 19",
+    "volume": 19,
+    "saga": "Saiyan Saga",
+    "episodes": {
+      "start": 217,
+      "end": 228,
+      "count": 12
+    },
+    "description": "Compilation volume 19 covering episodes 217–228.",
+    "image": "./src/img/mang/manga_vol_19"
+  },
+  {
+    "id": 20,
+    "name": "Dragon Ball Z Manga Vol. 20",
+    "volume": 20,
+    "saga": "Namek Saga",
+    "episodes": {
+      "start": 229,
+      "end": 240,
+      "count": 12
+    },
+    "description": "Compilation volume 20 covering episodes 229–240.",
+    "image": "./src/img/mang/manga_vol_20"
+  }
+]
